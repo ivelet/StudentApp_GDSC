@@ -1,0 +1,11 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.superlist.super_native_extensions" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="23"
+6-->/Users/ivelet/.pub-cache/hosted/pub.dev/super_native_extensions-0.8.5/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="23" />
+7-->/Users/ivelet/.pub-cache/hosted/pub.dev/super_native_extensions-0.8.5/android/src/main/AndroidManifest.xml
+8
+9</manifest>
